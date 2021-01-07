@@ -15,7 +15,7 @@ export class Reservation {
             numPeople: observable,
             id: observable,
             completed: observable,
-            seated: observable,
+            seated: observable
         })
     }
 }
